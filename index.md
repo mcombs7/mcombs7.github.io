@@ -1,7 +1,7 @@
 # Fall 2020 Classes
 
 - [Database Systems](https://fordham.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_6120617_1&handle=announcements_entry&mode=view)
-- [Operating Systems](https://fordham.blackboard.com/webapps/blackboard/execute/modulepage/view?course_id=_6121219_1&cmp_tab_id=_149605_1&mode=view)
+- [Operating Systems](https://fordham.blackboard.com)
 - [Data Communication and Networks](https://fordham.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_6119074_1&content_id=_3309859_1&mode=reset)
 - [Ethics of Life](https://fordham.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_6120205_1&handle=announcements_entry&mode=view)
 - [Human Function and Dysfunction](https://fordham.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_6120621_1&handle=announcements_entry&mode=view)
