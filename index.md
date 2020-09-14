@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+# Fall 2020 Classes
+
+- [Database Systems](https://github.com/mcombs7/mcombs7.github.io/edit/master/index.md)
+- [Operating Systems](https://github.com/mcombs7/mcombs7.github.io/edit/master/index.md)
+- [Data Communication and Networks](https://github.com/mcombs7/mcombs7.github.io/edit/master/index.md)
+- [Ethics of Life](https://github.com/mcombs7/mcombs7.github.io/edit/master/index.md)
+- [Human Function and Dysfunction](https://github.com/mcombs7/mcombs7.github.io/edit/master/index.md)
+- [Nicks Assignments](https://learn.uconn.edu/ultra/courses/_77186_1/cl/outline)
 
 You can use the [editor on GitHub](https://github.com/mcombs7/mcombs7.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
