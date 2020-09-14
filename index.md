@@ -1,6 +1,6 @@
 # Fall 2020 Classes
 
-- [Database Systems](https://fordham.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_6120617_1&handle=announcements_entry&mode=view)
+- [Database Systems](https://fordham.zoom.us/j/98120739511?pwd=OFFnNnBiZEhMWmNjQjdyRkc2N2NhUT09)
 - [Operating Systems](https://fordham.blackboard.com/webapps/bb-auth-provider-cas-bb_bb60/execute/casLogin?cmd=login&authProviderId=_111_1&redirectUrl=http%3A%2F%2Ffordham.blackboard.com%2Fwebapps%2Fportal%2Fframeset.jsp&globalLogoutEnabled=true&ticket=ST-1217536-Z9BCUaUO7IcMwUdSrqd-gMxQqK4-erp-loginp)
 - [Data Communication and Networks](https://fordham.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_6119074_1&content_id=_3309859_1&mode=reset)
 - [Ethics of Life](https://fordham.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_6120205_1&handle=announcements_entry&mode=view)
