@@ -1,10 +1,6 @@
 # Fall 2020 Classes
 
-- [Database Systems](https://fordham.zoom.us/j/98120739511?pwd=OFFnNnBiZEhMWmNjQjdyRkc2N2NhUT09)
-- [Operating Systems](https://my.fordham.edu/web/home-community/1)
-- [Data Communication and Networks](https://fordham.blackboard.com/webapps/blackboard/content/listContent.jsp?course_id=_6119074_1&content_id=_3309859_1&mode=reset)
-- [Ethics of Life](https://fordham.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_6120205_1&handle=announcements_entry&mode=view)
-- [Human Function and Dysfunction](https://fordham.blackboard.com/webapps/blackboard/execute/announcement?method=search&context=course_entry&course_id=_6120621_1&handle=announcements_entry&mode=view)
+- [Fordham](https://my.fordham.edu/web/home-community/1)
 - [Nicks Assignments](https://learn.uconn.edu/ultra/courses/_77186_1/cl/outline)
 
 You can use the [editor on GitHub](https://github.com/mcombs7/mcombs7.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
